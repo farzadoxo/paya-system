@@ -70,7 +70,15 @@
               "target": "Package",
               "version": "[9.0.2, )"
             },
+            "Swagger-Net": {
+              "target": "Package",
+              "version": "[8.5.12.1, )"
+            },
             "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
               "target": "Package",
               "version": "[7.2.0, )"
             },
