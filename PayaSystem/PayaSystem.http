@@ -1,0 +1,6 @@
+@PayaSystem_HostAddress = http://localhost:5173
+
+GET {{PayaSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
